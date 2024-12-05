@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /uploads/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /config.php
+Disallow: /register-user.php
+Disallow: /edit-user.php
+Disallow: /delete-user.php
+Disallow: /site-settings.php
+
+Allow: /
+Allow: /index.php
+Allow: /categories.php
+Allow: /lessons.php
+Allow: /lesson.php
+
+Sitemap: https://seu-dominio.com/sitemap.xml
